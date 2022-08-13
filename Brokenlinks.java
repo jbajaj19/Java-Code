@@ -18,11 +18,12 @@ public class Brokenlinks {
 		System.setProperty("webdriver.chrome.driver", "C:/Users/LENOVO/Downloads/chromedriver_win32/chromedriver.exe");
 		WebDriver driver = new ChromeDriver();
 		driver.manage().window().maximize();
+		
 		// broken url
 		// Step-1 is to get all urls ties up to the links by selenium
 		// java methods call the urls and gets you the status code
 		// if sstatus code>400 then the url is broken- link tied to the url is broken
-		driver.get("https://rahulshettyacademy.com/AutomationPractice/");
+	driver.get("https://rahulshettyacademy.com/AutomationPractice/");
 
 		List <WebElement> links = driver.findElements(By.cssSelector("li[class=\"gf-li\"] a"));
 		SoftAssert a = new SoftAssert();
