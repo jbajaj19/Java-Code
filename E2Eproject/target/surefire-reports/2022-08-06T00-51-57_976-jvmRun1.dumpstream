@@ -1,0 +1,18 @@
+# Created at 2022-08-06T00:56:11.483
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '#'.
+
+# Created at 2022-08-06T00:56:11.540
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '# There is insufficient memory for the Java Runtime Environment to continue.'.
+
+# Created at 2022-08-06T00:56:11.542
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '# Native memory allocation (malloc) failed to allocate 32744 bytes for ChunkPool::allocate'.
+
+# Created at 2022-08-06T00:56:12.059
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '# C:\Users\LENOVO\.eclipse\E2Eproject\hs_err_pid8836.log'.
+
+# Created at 2022-08-06T00:56:12.063
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '#'.
+
+# Created at 2022-08-06T00:56:12.064
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '# Compiler replay data is saved as:'.
+
