@@ -1,0 +1,5 @@
+18:13:14.326 [main] FATAL beta.Demo1 - this is fatal
+18:14:50.971 [main] DEBUG beta.Demo1 - Testing button functionality
+18:14:50.979 [main] INFO  beta.Demo1 - Button is present
+18:14:50.980 [main] ERROR beta.Demo1 - button is not clickable
+18:14:50.980 [main] FATAL beta.Demo1 - this is fatal

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-08-03T18:08:35Z" name="Suite" finished-at="2022-08-03T18:08:35Z" duration-ms="171">
+    <groups>
+    </groups>
+    <test started-at="2022-08-03T18:08:35Z" name="Test" finished-at="2022-08-03T18:08:35Z" duration-ms="171">
+      <class name="qaclickacademy.AppiumTest">
+        <test-method signature="IOSapp()[pri:0, instance:qaclickacademy.AppiumTest@1f75a668]" started-at="2022-08-03T23:38:35Z" name="IOSapp" finished-at="2022-08-03T23:38:35Z" duration-ms="29" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IOSapp -->
+        <test-method signature="Nativeappandroid()[pri:0, instance:qaclickacademy.AppiumTest@1f75a668]" started-at="2022-08-03T23:38:35Z" name="Nativeappandroid" finished-at="2022-08-03T23:38:35Z" duration-ms="82" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Nativeappandroid -->
+      </class> <!-- qaclickacademy.AppiumTest -->
+      <class name="qaclickacademy.SeleniumTest">
+        <test-method signature="Browserautomation()[pri:0, instance:qaclickacademy.SeleniumTest@5170bcf4]" started-at="2022-08-03T23:38:35Z" name="Browserautomation" finished-at="2022-08-03T23:38:35Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Browserautomation -->
+        <test-method signature="ElementUi()[pri:0, instance:qaclickacademy.SeleniumTest@5170bcf4]" started-at="2022-08-03T23:38:35Z" name="ElementUi" finished-at="2022-08-03T23:38:35Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ElementUi -->
+      </class> <!-- qaclickacademy.SeleniumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
