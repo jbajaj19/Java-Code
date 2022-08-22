@@ -27,9 +27,9 @@ public class Scenario4 {
        driver.switchTo().alert().accept();
 	a.moveToElement(driver.findElement(By.cssSelector("div[class=\"sort-sortBy\"]"))).build().perform();
 	a.moveToElement(driver.findElement(By.cssSelector("//ul[@class=\"sort-list\"][2]"))).click().build().perform();
-	//driver.findElement(By.xpath("(//div[@class='common-checkboxIndicator'])[1]")).click();
-	//driver.findElement(By.xpath("(//div[@class='common-checkboxIndicator'])[3]")).click();
-	//driver.findElement(By.xpath("(//div[@class='common-checkboxIndicator'])[10]")).click();
+	driver.findElement(By.xpath("(//div[@class='common-checkboxIndicator'])[1]")).click();
+	driver.findElement(By.xpath("(//div[@class='common-checkboxIndicator'])[3]")).click();
+	driver.findElement(By.xpath("(//div[@class='common-checkboxIndicator'])[10]")).click();
 	driver.findElement(By.xpath("//div[@class=\"common-radioIndicator\"][1]")).click();
 	driver.findElement(By.xpath("(//img[@title='7Threads Women Magenta & dark purple Yoke Design Kurta'])[1]")).click();
 	 Set<String> window =  driver.getWindowHandles();
